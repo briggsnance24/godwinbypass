@@ -3,7 +3,7 @@
 
 <h1 align="center">Ultraviolet-Node</h1>
 
-<p align="center">The deployable version of Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
+<p align="center"> Godwin Admin may take this down at any time. Stay focused on school, though. Don't let your grades drop because of this. Don't abuse it. Thanks. <br><br></p>
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
@@ -13,6 +13,7 @@
 - Blacklist setting and more for easy hosting
 - Security in mind and leak prevention
 - Frequent updates to improve site support or fix security issues
+- Blah blah blah boring stuff that only nerds get. 
 
 ## Supported Sites
 - [Youtube](https://www.youtube.com)
